@@ -6,4 +6,4 @@ kaggle房價預測模型(隨機森林模型) 實作練習
 kaggle house price prediction exercise using Random Forest Model
 
 抓取鉅亨網新聞資料的網頁爬蟲程式
-online news web crawler program
+online news crawler program
